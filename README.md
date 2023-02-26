@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
-<h3 align="center">🧷 BSc Mathematics & AI/ML enthusiast 🌱</h3>
+<h3 align="center">🧷 BSc in Mathematics & AI/ML enthusiast 🌱</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
